@@ -9,7 +9,7 @@
 
 - 🤔 I’m looking for help with understanding... physics for sure
 
-- 💬 Ask me about math, cybersecurity and my awesome sleeping skills for sure
+- 💬 Ask me about math, cybersecurity and my awesome sleeping skills!
 
 - 📫 How to reach me: @twitter/gabrio122 @linkedin
 
