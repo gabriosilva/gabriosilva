@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning a little bit about everything(infrastructure, CI, javascript)
 
-- 👯 I’m looking to collaborate on wherever you want! (literally everything)
+- 👯 I’m looking to collaborate on whatever you want! (literally everything)
 
 - 🤔 I’m looking for help with understanding... physics for sure
 
