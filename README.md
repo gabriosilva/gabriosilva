@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=So+it+does+work!;Hello+everyone!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=So+it+does+work!;Hello+everyone!;Hallo+alle+zusammen!;Olá+pessoal!;こんにちは、+みんな;大家好;ciao+a+tutti!;Bonjour+à+tous!)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on one of the greatest brazilian edtechs
 
