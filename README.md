@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=So+it+does+work!;Hello+everyone!)](https://git.io/typing-svg)
 
 <!--
 **gabriosilva/gabriosilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
