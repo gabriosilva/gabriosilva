@@ -11,7 +11,7 @@
 
 - 💬 Ask me about math, cybersecurity and my awesome sleeping skills!
 
-- 📫 How to reach me: @twitter/gabrio122 @linkedin
+- 📫 How to reach me: [@linkedin](https://www.linkedin.com/in/gabrio-lina-17ba60205/); gabrio.lina@hotmail.com
 
 - 😄 Pronouns: He/Him
 
