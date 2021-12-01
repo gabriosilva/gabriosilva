@@ -16,3 +16,5 @@
 - 😄 Pronouns: He/Him
 
 - ⚡ Fun fact: For every 10 people, 5 is half
+
+![Seinfeld LGTM](https://media.giphy.com/media/6MCHdZPT9HOYo/giphy.gif)
