@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on one of the greatest brazilian edtechs
 
-- 🌱 I’m currently learning a little bit about everything(infrastructure, CI, javascript)
+- 🌱 I’m learning a little bit about everything (infrastructure, CI, javascript)
 
 - 👯 I’m looking to collaborate on whatever you want! (literally anything)
 
