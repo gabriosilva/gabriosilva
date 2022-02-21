@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=So+it+does+work!;Hello+everyone!;Hallo+alle+zusammen!;Olá+pessoal!;こんにちは、+みんな;大家好;ciao+a+tutti!;Bonjour+à+tous!)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on one of the greatest brazilian edtechs
+- 🔭 I’m currently studying in one of the greatest tech colleges in brazil
 
 - 🌱 I’m learning a little bit about everything (infrastructure, CI, javascript)
 
