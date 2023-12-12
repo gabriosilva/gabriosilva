@@ -17,4 +17,4 @@
 
 - ⚡ Fun fact: My code runs better when I play epic movie soundtracks in the background. I'm convinced it's trying to keep up with the drama.
 
-![Seinfeld LGTM](https://media.giphy.com/media/6MCHdZPT9HOYo/giphy.gif)
+![INTERNET](https://media.giphy.com/media/LGzrggUppEBdm/giphy.gif)
