@@ -9,7 +9,7 @@
 
 - 🤔 I’m seeking advice on mastering the art of installing Nvidia drivers on Linux
 
-- 💬 Ask me about math, cybersecurity and why I hate exams
+- 💬 Ask me about Markov Decision Process, cybersecurity and why I hate exams
 
 - 📫 How to reach me: [@linkedin](https://www.linkedin.com/in/gabrio-lina-17ba60205/); gabrio.lina@hotmail.com
 
